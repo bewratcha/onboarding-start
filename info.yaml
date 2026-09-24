@@ -1,4 +1,5 @@
 # info.yaml  
+yaml_version: 6
 title: "ASIC Onboarding Project - Siratcha Boonsakdee"  
 author: "Your Name"  
 description: "SPI-controlled PWM peripheral for Tiny Tapeout."  
