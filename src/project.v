@@ -1,6 +1,5 @@
 // Change the module name!
-module tt_um_uwasic_onboarding_siratcha_boonsakdee(...) -> module tt_um_uwasic_onboarding_your_name(...)
-
+module tt_um_uwasic_onboarding_siratcha_boonsakdee(...) 
   // Add this inside the module block
   assign uio_oe = 8'hFF; // Set all IOs to output
   
