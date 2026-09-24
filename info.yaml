@@ -1,8 +1,8 @@
 # info.yaml  
-title: "ASIC Onboarding Project - Your Name"  
+title: "ASIC Onboarding Project - Siratcha Boonsakdee"  
 author: "Your Name"  
 description: "SPI-controlled PWM peripheral for Tiny Tapeout."  
-top_module: "tt_um_uwasic_onboarding_your_name"  # Match your top module name  
+top_module: "tt_um_uwasic_onboarding_siratcha_boonskadee"  # Match your top module name  
 source_files:  
   - "spi peripheral"
   - pwm_peripheral.v  
